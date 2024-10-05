@@ -131,15 +131,8 @@ Follow these steps to set up and run the project locally:
     GOOGLE_CLIENT_ID=89038948394-kjfdkcmckdmckdfsid94jkkknd9sd4.apps.googleusercontent.com
     GOOGLE_CLIENT_SECRET=KDJKDF-4KJDF894NF-DFKEF9MN-NFKEJD
 
-    #https://developers.facebook.com/ (Facebook Developer Console) (Change key)
-    FACEBOOK_APP_ID=94383859383287
-    FACEBOOK_APP_SECRET=89diodfjd9r98ddfjsodwj9df8d
-
     #Add redirect URL in Google Developer Console
     GOOGLE_CALLBACK_URL=http://localhost:8080/auth/google/callback
-
-    #Add redirect URL in Facebook Developer Console
-    FACEBOOK_CALLBACK_URL=http://localhost:8080/auth/facebook/callback
 
     ```
 

@@ -152,10 +152,6 @@ Follow these steps to set up and run the project locally:
 
 Encountered challenges, especially with data handling, but implemented efficient solutions. Overcame scalability issues with a well-architected backend.
 
-## Special Thanks
-
-A heartfelt thank you to Shradha Khapra didi and AMAN DHATTARWAL bhaiya at #ApnaCollege for their invaluable support and collaboration. As mentors and teachers, your guidance has been instrumental in shaping the success of this project. Your dedication to fostering learning and innovation has made a lasting impact, and I'm grateful for the opportunity to learn and grow under your mentorship.
-
 ## Author
 
 Amruta \
@@ -168,4 +164,3 @@ Thank you for exploring Airbnb! Your feedback is valuable. If you have any sugge
 
 ---
 
-### Thanks for visit... 😊😊😊
